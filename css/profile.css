@@ -59,7 +59,7 @@ main {
     .container {
         padding: 0;
         background-color: var(--Dark-Grey);
-        width: calc(50% - 30px);
+        width: calc(100% - 30px);
         display: flex;
         justify-content: center;
         flex-direction: column;
@@ -79,7 +79,7 @@ main {
 
     .container {
         background-color: var(--Dark-Grey);
-        width: calc(30% - 50px);
+        width: calc(50% - 50px);
         padding: 0;
         display: flex;
         justify-content: center;
