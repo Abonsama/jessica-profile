@@ -21,9 +21,9 @@ Users should be able to:
 ## My process
 the process was to first building the html file and then set the customization using css.
 i think i messed up with the interactivity of the page and i'm not satisfied with the result.
-i couldn't make the pointer with the color that is requiered.
+i couldn't make the pointer with the color that is required.
 i used maybe too much flex and i guess it could be a lot simpler.
-please check it out and tell me what is wrong, i'll apreciate it.
+please check it out and tell me what is wrong, i'll appreciate it.
 
 ### Built with
 
